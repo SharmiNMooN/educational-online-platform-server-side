@@ -9,7 +9,7 @@ const categories = require("./data/categories.json");
 const courses = require("./data/courses.json");
 
 app.get("/", (req, res) => {
-  res.send("course API Running");
+  res.send("Sikkhayon academy  API Running");
 });
 
 app.get("/course-categories", (req, res) => {
@@ -29,7 +29,7 @@ app.get("/courses", (req, res) => {
 
 app.get("/courses/:id", (req, res) => {
   const id = req.params.id;
-  const selectedCourse = courses.find((course) => course._id === id);
+  const selectedCourse = courses.find((course) => course.id === id);
   res.send(selectedCourse);
 });
 

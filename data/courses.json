@@ -1,1 +1,160 @@
-[]
+[
+    {
+      "id": "01",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enrolled": 488,
+      "title": "C Programming Course",
+      "author": {
+        "name": "Sharmin Akter",
+        "start_date": "2022-08-24 17:27:34",
+        "img": "https://lcom.static.linuxfound.org/sites/lcom/files/patrick_debois-48.jpg"
+      },
+      "thumbnail_url": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://online.crbtech.in/wp-content/uploads/2019/03/C-programming-1024x530.png",
+      "image_url": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://online.crbtech.in/wp-content/uploads/2019/03/C-programming-1024x530.png",
+      "details": "C is an imperative procedural language supporting structured programming, lexical variable scope, and recursion, with a static type system. It was designed to be compiled to provide low-level access to memory and language constructs that map efficiently to machine instructions, all with minimal runtime support."
+    },
+    {
+      "id": "02",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enrolled": 488,
+      "title": "C++ Programming Course",
+      "author": {
+        "name": "John Doe",
+        "published_date": "2022-08-24 17:27:34",
+        "img": "https://www.notebookcheck.com/fileadmin/Notebooks/News/_nc3/andy_rubin_t291117_2.jpg"
+      },
+      "thumbnail_url": "https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1551437392/img/co_img_1539_1633434090.png",
+      "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--Tu2z9cvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/696/1%2A6UpwEDOw04H5fKyaMGXpSw.png",
+      "details": "C++ is an object-oriented programming language which gives a clear structure to programs and allows code to be reused, lowering development costs. C++ is portable and can be used to develop applications that can be adapted to multiple platforms. C++ is fun and easy to learn!"
+    },
+
+    {
+      "id": "03",
+      "category_id": "02",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_enrolled": 400,
+      "title": "Complete Backend Development Crash course",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://news.stanford.edu/news/2011/october/images/mccarthy_portrait_news.jpg"
+      },
+      "thumbnail_url": "https://www.tangolearn.com/wp-content/uploads/2021/12/best-backend-development.jpg",
+      "image_url": "https://www.tangolearn.com/wp-content/uploads/2021/12/best-backend-development.jpg",
+      "details": "Back-end development means working on server-side software, which focuses on everything you can't see on a website. Back-end developers ensure the website performs correctly, focusing on databases, back-end logic, application programming interface (APIs), architecture, and servers."
+    },
+    {
+      "id": "04",
+      "category_id": "02",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_enrolled": 400,
+      "title": "Complete Frontend Development Crash Course",
+      "author": {
+        "name": "Jennifer Wood",
+        "published_date": "2022-08-30 16:38:45",
+        "img": "https://news.stanford.edu/news/2011/october/images/mccarthy_portrait_news.jpg"
+      },
+      "thumbnail_url": "https://johnsoncrystalkalu.com/academy/images/webdesign.jpg",
+      "image_url": "https://www.onlinecoursereport.com/wp-content/uploads/2020/06/shutterstock_1150510607-1024x512.jpg",
+      "details": "A front-end developer creates websites and applications using web languages such as HTML, CSS, and JavaScript that allow users to access and interact with the site or app. When you visit a website, the design elements you see were created by a front-end developer. A Front-End Developer is responsible for developing new user-facing features, determining the structure and design of web pages, building reusable codes, optimizing page loading times, and using a variety of markup languages to create the web pages."
+    },
+
+    {
+      "id": "05",
+
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enrolled": 980,
+      "title": "Android Application Development Full Course",
+      "author": {
+        "name": "Jane Doe",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://www.notebookcheck.com/fileadmin/Notebooks/News/_nc3/andy_rubin_t291117_2.jpg"
+      },
+      "thumbnail_url": "https://ipc.alquds.edu/wp-content/uploads/2015/12/android-app-banner.jpg",
+      "image_url": "https://ipc.alquds.edu/wp-content/uploads/2015/12/android-app-banner.jpg",
+      "details": "Android software development is the process by which applications are created for devices running the Android operating system. Google states that Android apps can be written using Kotlin, Java, and C++ languages using the Android software development kit (SDK), while using other languages is also possible."
+    },
+    {
+      "id": "06",
+
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enrolled": 980,
+      "title": "iOS Application Development Full Course",
+      "author": {
+        "name": "system",
+        "published_date": "2022-08-24 23:15:00",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://krify.co/wp-content/uploads/2019/04/iOS-app-development.jpg",
+      "image_url": "https://www.goteso.com/assets/images/training/banner/ios-course.png",
+      "details": " iOS application development is the process of making mobile applications for Apple hardware, including iPhone, iPad and iPod Touch. The software is written in the Swift programming language or Objective-C and then deployed to the App Store for users to download"
+    },
+
+    {
+      "id": "07",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enrolled": null,
+      "title": "Hand's on DevOps Course",
+      "author": {
+        "name": "Patrick Debois",
+        "published_date": "2022-08-30 15:00:04",
+        "img": "https://lcom.static.linuxfound.org/sites/lcom/files/patrick_debois-48.jpg"
+      },
+      "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Devops-toolchain.svg/300px-Devops-toolchain.svg.png",
+      "image_url": "https://www.digital-lync.com/images/aws-banner.jpg",
+      "details": "You will learn what DevOps is, continuous integration, continuous deployment strategies, and application performance management. Many DevOps practices are commonly used in programming and web development, it is important to understand key terms and technologies. DevOps courses makes you master in the various aspects of the principles of continuous development and deployment, software development operations, continuous integration, automation of configuration management and learn the various tools like Git, Docker, Jenkins, Nagios, Puppet, Ansible and Kubernetes."
+    },
+
+    {
+      "id": "08",
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enrolled": 111,
+      "title": "Computer Science Short Course (6 month)",
+      "author": {
+        "name": "John Miller",
+        "published_date": null,
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+      },
+      "thumbnail_url": "https://i.ytimg.com/vi/SzJ46YA_RaA/maxresdefault.jpg",
+      "image_url": "https://www.filepicker.io/api/file/vMhE1idGTQWSgimQt3rn",
+      "details": "Principal areas of study within Computer Science include artificial intelligence, computer systems and networks, security, database systems, human computer interaction, vision and graphics, numerical analysis, programming languages, software engineering, bio informatics and theory of computing"
+    },
+
+    {
+      "id": "09",
+
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enrolled": 733,
+      "title": "Artificial Intelligence Course",
+      "author": {
+        "name": "John McCarthy",
+        "published_date": "2022-08-25 06:03:00",
+        "img": "http://news.stanford.edu/news/2011/october/images/mccarthy_portrait_news.jpg"
+      },
+      "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+      "image_url": "https://i.ibb.co/WNrB5d7/unsplash-Eh-Tc-C9s-YXsw-9.png",
+      "details": "The field of Artificial Intelligence (AI systems) and machine learning algorithms encompasses computer science, natural language processing, python code, math, psychology, neuroscience, data science, machine learning and many other disciplines."
+    },
+    {
+      "id": "10",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_enrolled": 733,
+      "title": "DevOps Course in Depth",
+      "author": {
+        "name": "Patrick Debois",
+        "published_date": "2022-08-25 06:03:00",
+        "img": "https://lcom.static.linuxfound.org/sites/lcom/files/patrick_debois-48.jpg"
+      },
+      "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAddpGwE-t1pUWCMdlLaMUtIiztQDN44QQA",
+      "image_url": "https://www.digital-lync.com/images/devops-bnr.jpg",
+      "details": "DevOps training program will provide you with in-depth knowledge of various DevOps tools, including Git, Jenkins, Docker, Ansible, Terraform, Kubernetes, Prometheus, and Grafana. This DevOps certification course is entirely hands-on and designed in a way to help you become a certified practitioner through best practices in Continuous Development, Configuration Management, Continuous Integration, and finally, Continuous Monitoring of software throughout its development life cycle."
+    }
+  ]
