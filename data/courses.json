@@ -2,12 +2,13 @@
     {
       "id": "01",
       "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_enrolled": 488,
+      "rating": { "number": 4.0, "badge": "Excellent" },
+      "total_enrolled": 28,
       "title": "C Programming Course",
+      "start_date": "2022-12-14 17:27:34",
       "author": {
         "name": "Sharmin Akter",
-        "start_date": "2022-08-24 17:27:34",
+        
         "img": "https://lcom.static.linuxfound.org/sites/lcom/files/patrick_debois-48.jpg"
       },
       "thumbnail_url": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://online.crbtech.in/wp-content/uploads/2019/03/C-programming-1024x530.png",
@@ -18,11 +19,12 @@
       "id": "02",
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_enrolled": 488,
+      "total_enrolled": 48,
       "title": "C++ Programming Course",
+      "start_date": "2022-12-24 17:27:34",
       "author": {
         "name": "John Doe",
-        "published_date": "2022-08-24 17:27:34",
+        
         "img": "https://www.notebookcheck.com/fileadmin/Notebooks/News/_nc3/andy_rubin_t291117_2.jpg"
       },
       "thumbnail_url": "https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1551437392/img/co_img_1539_1633434090.png",
@@ -34,11 +36,12 @@
       "id": "03",
       "category_id": "02",
       "rating": { "number": 4.8, "badge": "Excellent" },
-      "total_enrolled": 400,
+      "total_enrolled": 40,
       "title": "Complete Backend Development Crash course",
+      "start_date": "2022-12-30 16:38:45",
       "author": {
         "name": "Jennifer Wood",
-        "published_date": "2022-08-30 16:38:45",
+        
         "img": "https://news.stanford.edu/news/2011/october/images/mccarthy_portrait_news.jpg"
       },
       "thumbnail_url": "https://www.tangolearn.com/wp-content/uploads/2021/12/best-backend-development.jpg",
@@ -49,11 +52,12 @@
       "id": "04",
       "category_id": "02",
       "rating": { "number": 4.3, "badge": "Excellent" },
-      "total_enrolled": 400,
+      "total_enrolled": 13,
       "title": "Complete Frontend Development Crash Course",
+      "start_date": "2022-12-30 16:38:45",
       "author": {
         "name": "Jennifer Wood",
-        "published_date": "2022-08-30 16:38:45",
+        
         "img": "https://news.stanford.edu/news/2011/october/images/mccarthy_portrait_news.jpg"
       },
       "thumbnail_url": "https://johnsoncrystalkalu.com/academy/images/webdesign.jpg",
@@ -65,12 +69,13 @@
       "id": "05",
 
       "category_id": "03",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_enrolled": 980,
+      "rating": { "number": 4.1, "badge": "Excellent" },
+      "total_enrolled": 25,
       "title": "Android Application Development Full Course",
+      "start_date": "2022-08-24 23:15:00",
       "author": {
         "name": "Jane Doe",
-        "published_date": "2022-08-24 23:15:00",
+        
         "img": "https://www.notebookcheck.com/fileadmin/Notebooks/News/_nc3/andy_rubin_t291117_2.jpg"
       },
       "thumbnail_url": "https://ipc.alquds.edu/wp-content/uploads/2015/12/android-app-banner.jpg",
@@ -81,12 +86,13 @@
       "id": "06",
 
       "category_id": "03",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_enrolled": 980,
+      "rating": { "number": 3.9, "badge": "Good" },
+      "total_enrolled": 23,
       "title": "iOS Application Development Full Course",
+      "start_date": "2022-12-24 23:15:00",
       "author": {
-        "name": "system",
-        "published_date": "2022-08-24 23:15:00",
+        "name": "Adyen Osman",
+        
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://krify.co/wp-content/uploads/2019/04/iOS-app-development.jpg",
@@ -97,12 +103,13 @@
     {
       "id": "07",
       "category_id": "04",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_enrolled": null,
+      "rating": { "number": 4.0, "badge": "Excellent" },
+      "total_enrolled": 12,
       "title": "Hand's on DevOps Course",
+      "start_date": "2022-08-30 15:00:04",
       "author": {
         "name": "Patrick Debois",
-        "published_date": "2022-08-30 15:00:04",
+        
         "img": "https://lcom.static.linuxfound.org/sites/lcom/files/patrick_debois-48.jpg"
       },
       "thumbnail_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Devops-toolchain.svg/300px-Devops-toolchain.svg.png",
@@ -116,9 +123,10 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_enrolled": 111,
       "title": "Computer Science Short Course (6 month)",
+      "start_date": "2022-12-22 23:15:00",
       "author": {
         "name": "John Miller",
-        "published_date": null,
+        
         "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
       },
       "thumbnail_url": "https://i.ytimg.com/vi/SzJ46YA_RaA/maxresdefault.jpg",
@@ -133,13 +141,14 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_enrolled": 733,
       "title": "Artificial Intelligence Course",
+      "start_date": "2022-08-25 06:03:00",
       "author": {
         "name": "John McCarthy",
-        "published_date": "2022-08-25 06:03:00",
+        
         "img": "http://news.stanford.edu/news/2011/october/images/mccarthy_portrait_news.jpg"
       },
-      "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
-      "image_url": "https://i.ibb.co/WNrB5d7/unsplash-Eh-Tc-C9s-YXsw-9.png",
+      "thumbnail_url": "https://s3.envato.com/files/13230ed8-a2cb-4fb3-bab4-e301c7d61d7b/inline_image_preview.jpg",
+      "image_url": "https://s3.envato.com/files/13230ed8-a2cb-4fb3-bab4-e301c7d61d7b/inline_image_preview.jpg",
       "details": "The field of Artificial Intelligence (AI systems) and machine learning algorithms encompasses computer science, natural language processing, python code, math, psychology, neuroscience, data science, machine learning and many other disciplines."
     },
     {
@@ -148,9 +157,10 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_enrolled": 733,
       "title": "DevOps Course in Depth",
+      "start_date": "2022-08-25 06:03:00",
       "author": {
         "name": "Patrick Debois",
-        "published_date": "2022-08-25 06:03:00",
+        
         "img": "https://lcom.static.linuxfound.org/sites/lcom/files/patrick_debois-48.jpg"
       },
       "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAddpGwE-t1pUWCMdlLaMUtIiztQDN44QQA",
