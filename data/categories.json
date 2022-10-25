@@ -1,22 +1,27 @@
 [
     {
       "id": "01",
-      "name": "Programming"
+      "name": "Programming",
+      "slug": "programming"
     },
     {
       "id": "02",
-      "name": "Web development"
+      "name": "Web development",
+      "slug": "web-development"
     },
     {
       "id": "03",
-      "name": "Mobile development"
+      "name": "Mobile development",
+      "slug": "mobile-development"
     },
     {
       "id": "04",
-      "name": "DevOps"
+      "name": "DevOps",
+      "slug": "devops"
     },
     {
       "id": "05",
-      "name": "Computer Science"
+      "name": "Computer Science",
+      "slug": "computer-science"
     }
   ]
