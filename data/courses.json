@@ -4,6 +4,7 @@
       "category_id": "01",
       "rating": { "number": 4.0, "badge": "Excellent" },
       "total_enrolled": 28,
+      "price": 5000,
       "title": "C Programming Course",
       "start_date": "2022-12-14 17:27:34",
       "author": {
@@ -20,6 +21,7 @@
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_enrolled": 48,
+      "price": 6000,
       "title": "C++ Programming Course",
       "start_date": "2022-12-24 17:27:34",
       "author": {
@@ -37,6 +39,7 @@
       "category_id": "02",
       "rating": { "number": 4.8, "badge": "Excellent" },
       "total_enrolled": 40,
+      "price": 12000,
       "title": "Complete Backend Development Crash course",
       "start_date": "2022-12-30 16:38:45",
       "author": {
@@ -53,6 +56,7 @@
       "category_id": "02",
       "rating": { "number": 4.3, "badge": "Excellent" },
       "total_enrolled": 13,
+      "price": 7000,
       "title": "Complete Frontend Development Crash Course",
       "start_date": "2022-12-30 16:38:45",
       "author": {
@@ -71,6 +75,7 @@
       "category_id": "03",
       "rating": { "number": 4.1, "badge": "Excellent" },
       "total_enrolled": 25,
+      "price": 9000,
       "title": "Android Application Development Full Course",
       "start_date": "2022-08-24 23:15:00",
       "author": {
@@ -88,6 +93,7 @@
       "category_id": "03",
       "rating": { "number": 3.9, "badge": "Good" },
       "total_enrolled": 23,
+      "price": 7000,
       "title": "iOS Application Development Full Course",
       "start_date": "2022-12-24 23:15:00",
       "author": {
@@ -105,6 +111,7 @@
       "category_id": "04",
       "rating": { "number": 4.0, "badge": "Excellent" },
       "total_enrolled": 12,
+      "price": 5500,
       "title": "Hand's on DevOps Course",
       "start_date": "2022-08-30 15:00:04",
       "author": {
@@ -122,6 +129,7 @@
       "category_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_enrolled": 111,
+      "price": 20000,
       "title": "Computer Science Short Course (6 month)",
       "start_date": "2022-12-22 23:15:00",
       "author": {
@@ -140,6 +148,7 @@
       "category_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_enrolled": 733,
+      "price": 9500,
       "title": "Artificial Intelligence Course",
       "start_date": "2022-08-25 06:03:00",
       "author": {
@@ -156,6 +165,7 @@
       "category_id": "04",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_enrolled": 733,
+      "price": 8500,
       "title": "DevOps Course in Depth",
       "start_date": "2022-08-25 06:03:00",
       "author": {
