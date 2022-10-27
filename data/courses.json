@@ -11,7 +11,7 @@
       "author": {
         "name": "Sharmin Akter",
         
-        "img": "https://lcom.static.linuxfound.org/sites/lcom/files/patrick_debois-48.jpg"
+        "img": "https://st3.depositphotos.com/6697918/15699/v/450/depositphotos_156995416-stock-illustration-beautiful-face-of-arabic-muslim.jpg"
       },
       "thumbnail_url": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://online.crbtech.in/wp-content/uploads/2019/03/C-programming-1024x530.png",
       "image_url": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_1024/https://online.crbtech.in/wp-content/uploads/2019/03/C-programming-1024x530.png",
@@ -29,7 +29,7 @@
       "author": {
         "name": "John Doe",
         
-        "img": "https://www.notebookcheck.com/fileadmin/Notebooks/News/_nc3/andy_rubin_t291117_2.jpg"
+        "img": "https://lcom.static.linuxfound.org/sites/lcom/files/patrick_debois-48.jpg"
       },
       "thumbnail_url": "https://d1jnx9ba8s6j9r.cloudfront.net/imgver.1551437392/img/co_img_1539_1633434090.png",
       "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--Tu2z9cvG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://miro.medium.com/max/696/1%2A6UpwEDOw04H5fKyaMGXpSw.png",
@@ -46,9 +46,9 @@
       "title": "Complete Backend Development Crash course",
       "start_date": "2022-12-30 16:38:45",
       "author": {
-        "name": "Jennifer Wood",
+        "name": "Sharmin Akter",
         
-        "img": "https://news.stanford.edu/news/2011/october/images/mccarthy_portrait_news.jpg"
+        "img": "https://st3.depositphotos.com/6697918/15699/v/450/depositphotos_156995416-stock-illustration-beautiful-face-of-arabic-muslim.jpg"
       },
       "thumbnail_url": "https://www.tangolearn.com/wp-content/uploads/2021/12/best-backend-development.jpg",
       "image_url": "https://www.tangolearn.com/wp-content/uploads/2021/12/best-backend-development.jpg",
@@ -103,9 +103,9 @@
       "title": "iOS Application Development Full Course",
       "start_date": "2022-12-24 23:15:00",
       "author": {
-        "name": "Adyen Osman",
+        "name": "Patrick Debois",
         
-        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        "img": "https://lcom.static.linuxfound.org/sites/lcom/files/patrick_debois-48.jpg"
       },
       "thumbnail_url": "https://krify.co/wp-content/uploads/2019/04/iOS-app-development.jpg",
       "image_url": "https://www.goteso.com/assets/images/training/banner/ios-course.png",
@@ -186,5 +186,23 @@
       "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAddpGwE-t1pUWCMdlLaMUtIiztQDN44QQA",
       "image_url": "https://www.digital-lync.com/images/devops-bnr.jpg",
       "details": "DevOps training program will provide you with in-depth knowledge of various DevOps tools, including Git, Jenkins, Docker, Ansible, Terraform, Kubernetes, Prometheus, and Grafana. This DevOps certification course is entirely hands-on and designed in a way to help you become a certified practitioner through best practices in Continuous Development, Configuration Management, Continuous Integration, and finally, Continuous Monitoring of software throughout its development life cycle."
-    }
+    },
+    {
+        "id": "11",
+        "category_id": "06",
+        "duration": "3 months",
+        "rating": { "number": 4.1, "badge": "Excellent" },
+        "total_enrolled": 33,
+        "price": 7500,
+        "title": "Business Administration Course",
+        "start_date": "2022-08-25 06:03:00",
+        "author": {
+          "name": "Evan Thomas Spiegel",
+          
+          "img": "https://swashvillage.org/storage/img/images_1/evan-spiegel-biography_11.jpg"
+        },
+        "thumbnail_url": "https://chauncyschool.com/wp-content/uploads/2018/09/business.jpg",
+        "image_url": "https://chauncyschool.com/wp-content/uploads/2018/09/business.jpg",
+        "details": "Business administration (also known as business management) is the administration of a commercial enterprise. It includes all aspects of overseeing and supervising the business operations of an organization. From the point of view of management and leadership, it also covers fields that include office building administration, accounting, finance, designing, development, quality assurance, data analysis, sales, project management, information-technology management, research and development, and marketing. Business administration learn about the ins and outs of how businesses function. The courses span fundamentals like accounting, marketing, and finance. Through these classes, students learn how to solve problems, think critically, and make ethical business decisions. With a degree in business administration, graduates can enter many different career paths, including consulting, human resources management, marketing, public relations, and more. "
+      }
   ]
