@@ -1,27 +1,32 @@
 [
-    {
-      "id": "01",
-      "name": "Programming",
-      "slug": "programming"
-    },
-    {
-      "id": "02",
-      "name": "Web development",
-      "slug": "web-development"
-    },
-    {
-      "id": "03",
-      "name": "Mobile development",
-      "slug": "mobile-development"
-    },
-    {
-      "id": "04",
-      "name": "DevOps",
-      "slug": "devops"
-    },
-    {
-      "id": "05",
-      "name": "Computer Science",
-      "slug": "computer-science"
+  {
+    "id": "01",
+    "name": "Programming",
+    "slug": "programming"
+  },
+  {
+    "id": "02",
+    "name": "Web development",
+    "slug": "web-development"
+  },
+  {
+    "id": "03",
+    "name": "Mobile development",
+    "slug": "mobile-development"
+  },
+  {
+    "id": "04",
+    "name": "DevOps",
+    "slug": "devops"
+  },
+  {
+    "id": "05",
+    "name": "Computer Science",
+    "slug": "computer-science"
+  },
+  {
+      "id": "06",
+      "name": "Business studies",
+      "slug": "business-studies"
     }
-  ]
+]
